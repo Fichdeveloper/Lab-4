@@ -11,8 +11,6 @@ namespace Test_proj_C
            
             LinkedList<int> list = new LinkedList<int>();
 
-            Random random = new Random();
-
             for (int i=1;i<=4;i++)
             {
                 list.AddLast(i);      
